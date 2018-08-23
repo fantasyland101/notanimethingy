@@ -1,6 +1,6 @@
 ideer: 2d wiev av skolan ,länk till ssis.nu och canvas, länk till andras i skolans hämsidor
 WEBBSIDOIDÉER: Vi kan göra ett schema för varje dag för varje klass (A till D) men att, när vi klickar på ämnet, så står det hela namnet på läraren. När man klickar på lärarens namn så skickas man till sidan med information om varje lärare. När man klickar på ett ämne så står det även vilket klassrum man ska till, och när man klickar på klassrummets namn så kommer man till en bild med en "bird's eye view" av skola, i ett 2D-format.
-Vi kan även lägga till en länk till ssis.nu och canvas, men även en lista på länkar till andra elevers hemsidor.
+Vi kan även lägga till en länk till ssis.nu och canvas, men även en lista på länkar till andra elevers webbsidor.
 
 <!DOCTYPE Html>
 <html lang="sv">
