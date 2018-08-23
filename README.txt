@@ -41,3 +41,5 @@ Man kan byta font från en font till en annan genom att skriva <font face="[det 
 
 <meta name="description" content="[Vad som ska skrivas under länken till webbsidan när man söker på den]">
 <meta name="keywords" content="[Vilka nyckelord som måste sökas på för att webbsidan ska visas på söksidan]">
+
+Anledningen till att man skriver <meta charset="utf-8"> under <head> är för att "charset" betyder "character set", och ska säga vilket set av karaktärer som man använder (ASCII hade 128 karaktärer, ANSI hade 256 karaktärer. UTF-8 är namnet på ett karaktär-set, och är det set som man använder med HTML5.).
