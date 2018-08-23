@@ -43,3 +43,5 @@ Man kan byta font från en font till en annan genom att skriva <font face="[det 
 <meta name="keywords" content="[Vilka nyckelord som måste sökas på för att webbsidan ska visas på söksidan]">
 
 Anledningen till att man skriver <meta charset="utf-8"> under <head> är för att "charset" betyder "character set", och ska säga vilket set av karaktärer som man använder (ASCII hade 128 karaktärer, ANSI hade 256 karaktärer. UTF-8 är namnet på ett karaktär-set, och är det set som man använder med HTML5.).
+
+För att lägga till GIFs så använder du dig av <IMG SRC="exempel.gif"> i <body>. IMG står för image oc SRC står för source. Taggen letar efter GIFen med det specifikaa namnet i mappen www och om den hittar den så visas GIFen på sidan.
